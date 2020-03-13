@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster&display=swap');
+/* 
+font-family: 'Anton', sans-serif;
+font-family: 'Lobster', cursive;
+ */
+ #jumboOne{
+     text-align: center;
+     background-image: url('https://media.giphy.com/media/3oKIP657aH5QRMkX3q/source.gif');
+ }
+ .headline{
+    font-family: 'Lobster', cursive;
+    font-size: 3.5rem;
+    color: white;
+ }
+ .headline2{
+    font-family: 'Lobster', cursive;
+    color: white;
+ }
+/* body{
+
+} */
+#mainBody{
+    background-image: url('./assets/coronavirus-img.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-position-y: top;
+    height: 100vh;
+}
+#mainCon{
+    height: 80vh;
+    background-color: rgba(128, 128, 128, 0.37);
+    border-radius: 25px;
+}
